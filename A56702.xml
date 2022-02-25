@@ -1,0 +1,375 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the Queen at Whitehall, March 1, 1688/9 by Symon Patrick ...</title>
+            <author>Patrick, Simon, 1626-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56702</idno>
+            <idno type="STC">Wing P848</idno>
+            <idno type="STC">ESTC R22949</idno>
+            <idno type="EEBO-CITATION">12745161</idno>
+            <idno type="OCLC">ocm 12745161</idno>
+            <idno type="VID">93243</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56702)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93243)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 727:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the Queen at Whitehall, March 1, 1688/9 by Symon Patrick ...</title>
+                  <author>Patrick, Simon, 1626-1707.</author>
+               </titleStmt>
+               <extent>[2], 5-41 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Colossians III, 15 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93243:1"/>
+            <pb facs="tcp:93243:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd before the QUEEN At <hi>WHITEHALL, March</hi> 1. 1688/9.</p>
+            <p>BY <hi>SYMON PATRICK,</hi> D. D. Dean of <hi>Peterburgh.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by her Majeſty's Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Chiſwell,</hi> at the Roſe and Crown in St. <hi>Paul</hi>'s Church-yard, 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:93243:2"/>
+            <pb n="5" facs="tcp:93243:2"/>
+            <epigraph>
+               <bibl>COLOSS. iii. 15.</bibl>
+               <q>And let the Peace of God rule in your Hearts, to the which alſo ye are called in one Body, and be ye thankful.</q>
+            </epigraph>
+            <p>IN theſe words <hi>three</hi> things offer themſelves to our Conſideration.</p>
+            <p>
+               <hi>Firſt,</hi> A Duty; which is, to <hi>let the Peace of God rule in our Hearts.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The Reaſon of it; which is double: <hi>1ſt,</hi> We are <hi>called</hi> to it. <hi>2dy,</hi> We are called to it <hi>in one Body.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> A Means or Help hereunto; <hi>and be ye thankful.</hi>
+            </p>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>In the <hi>firſt</hi> of theſe alſo, there are three things to be conſidered.</p>
+               <p>1. The <hi>Grace</hi> it ſelf here commended to us, which is <hi>Peace.</hi>
+               </p>
+               <p>2. The <hi>Excellency</hi> of this Grace; it is the Peace of <hi>God.</hi>
+               </p>
+               <pb n="6" facs="tcp:93243:3"/>
+               <p>3. The <hi>Authority</hi> it ought to exerciſe over us; <hi>let it rule in your Hearts.</hi>
+               </p>
+               <p>For the <hi>firſt</hi> of theſe; <hi>Peace</hi> doth not here ſignify<note place="margin">I.</note> that Quiet and Satisfaction, which we have in our Minds and Conſciences from a Senſe of well-doing, and of God's gracious Promiſe thereunto: But one part of well-doing; from which that inward Peace and Comfort flows, <hi>viz.</hi> the Grace of <hi>Peaceable<g ref="char:EOLhyphen"/>neſs.</hi> Wherein we conſult the Quiet of other Men, as well as our own; and live in an undi<g ref="char:EOLhyphen"/>ſturbed Union with them.</p>
+               <p>Which is a Grace compounded of ſeveral other Graces; principally, <hi>Humility</hi> and <hi>Kindneſs, Meekneſs</hi> and <hi>Patience.</hi> The <hi>two firſt</hi> of which [<hi>Humility and Kindneſs</hi>] diſpoſe us to avoid the giving any Offence to others: and the <hi>two laſt [Meekneſs and Patience]</hi> diſpoſe us to paſs by the Offences that others give to us: By which means Peace is both made and maintained, both in private and publick, in Civil and Chriſtian Society.</p>
+               <p>For <hi>Peace</hi> being that Grace which preſerves us from variance with our Neighbours, and claſhing one againſt another; to the great Prejudice of all Society; it teaches us, as I ſaid, to avoid all thoſe things whereby we may offend other Men; and to
+<pb n="7" facs="tcp:93243:3"/> keep our ſelves in ſuch good temper, as not to be too much offended at thoſe things, vvhereby they give diſguſt to us.</p>
+               <p>Theſe are the things which cauſe all Variance, and make all the Breaches that are among Neighbours: the <hi>Offences</hi> which are either <hi>given</hi> or <hi>taken.</hi> Which Peace inſtructs us equally to ſhun; and is it ſelf inſtructed by Humility and Kindneſs to ſhun the giving any, and by Meekneſs and Patience to ſhun the taking any Offences when they are given.</p>
+               <p>It is ill-natur'd Pride and Inſolence, which makes Men give Trouble and Diſturbance unto thoſe who would live quietly with them: and it is too much Paſſion and Impatience, which makes others unable to bear with ſuch Provocation.</p>
+               <p>Both muſt be amended, before we can come into the Way of Peace. The <hi>firſt</hi> by humble Thoughts of our ſelves, and by being <hi>kindly affectioned one to another in brotherly Love,</hi> (as the Apoſtle ſpeaks). The <hi>ſecond,</hi> by meek putting up Injuries, by Forbear<g ref="char:EOLhyphen"/>ance, and patient ſuffering the inſolent Folly of a<g ref="char:EOLhyphen"/>buſive Perſons.</p>
+               <p>Theſe two put us into the way of Peace, and will keep us in it; either by <hi>preventing</hi> Differences, or by<g ref="char:punc">▪</g> 
+                  <hi>compoſing</hi> them. For Differences there will be (and my Text ſuppoſes as much) as long as Mens Appre<g ref="char:EOLhyphen"/>henſions of things are very various; yet they may be<g ref="char:punc">▪</g>
+                  <pb n="8" facs="tcp:93243:4"/> without the breach of Peace. Which doth not hin<g ref="char:EOLhyphen"/>der all manner of Differences, but only compoſe them, by an over-ruling hand, as you ſhall hear pre<g ref="char:EOLhyphen"/>ſently, when I have given a ſhort account of the <hi>ſe<g ref="char:EOLhyphen"/>cond</hi> thing under this Head.</p>
+               <p>Which is, the <hi>Excellence</hi> of this Grace; here called<note place="margin">II.</note> the <hi>Peace of God:</hi> that is, a Divine Quality; of which God is the Author; who works it in the Hearts of true Chriſtians; as a part of his own Image; which he dearly loves, and wherein he ex<g ref="char:EOLhyphen"/>ceedingly delights.</p>
+               <p>In all theſe regards, it is the <hi>Peace of God:</hi> becauſe it ſprings from him: and is a Communication of his own Divine Nature; which renders us very like him, and makes us highly beloved of him: who is the moſt excellent Being; and delights in this Name, the <hi>God of Peace and Love.</hi> For in his moſt bleſſed Nature there is no diſcord, nor diſſenſion: But all the <hi>three</hi> Perſons perfectly agree, and in<g ref="char:EOLhyphen"/>tirely accord; being externally united in the ſame Will, as well as Eſſence.</p>
+               <p>Unto which Pattern, our Lord and Saviour tells his Apoſtles, God intended to form their Minds: that <hi>they all might be one, as he and the Father are one,</hi> Joh. xvii. 21. And the Apoſtles endeavoured to make<g ref="char:punc">▪</g> the ſame happy accord among all Chriſtians;
+<pb n="9" facs="tcp:93243:4"/> that they might <hi>all ſpeak the ſame thing, and that there might be no diviſions among them; but that they might be perfectly joined together in the ſame mind, and in the ſame judgment,</hi> 1 Cor. i. 10.</p>
+               <p>And when we are thus joined together in Peace, and Love; then are we perfect Men in Chriſt Jeſus; and in a ſingular manner beloved of God: unto whom nothing is ſo grateful as this; whereby we make the neareſt approaches unto his Divine Nature.</p>
+               <p>By this ſmall touch, I have given upon this Sub<g ref="char:EOLhyphen"/>ject, (which I have not room to proſecute) you cannot but ſee there is the greateſt reaſon, that we ſhould not only admit this Heavenly Gueſt into our Hearts; but let them be abſolutely govern'd by it. Which is the <hi>third</hi> thing.</p>
+               <p>The <hi>Authority</hi> it ought to have over us: Which<note place="margin">III.</note> ſhould be ſo great, that it command, and have the dominion of all other Affections that ſtir in our Souls. For ſo the Apoſtle ſaith, Let the Peace of God <hi>rule in your Hearts.</hi>
+               </p>
+               <p>The word, in the Greek, for <hi>Rule,</hi> relates to Conteſts and Controverſies: in which the Peace of God ought to interpoſe ſo powerfully, as to quiet them; that they give no diſturbance to the Chriſtian Society. So the words may literally be
+<pb n="10" facs="tcp:93243:5"/> tranſlated, <hi>Let the Peace of God be Umpire in you.</hi> That is, when any Diſputes ariſe, about which ye cannot agree, but are in danger to fall into Par<g ref="char:EOLhyphen"/>ties, and break in pieces: then refer all unto Peace, as you do your Differences to an Arbitrator. As much as to ſay, let that be concluded, which will make moſt for Peace. Let it determine every Con<g ref="char:EOLhyphen"/>troverſy; moderate in all Differences; be inſtead of a Judg, to decide and ſettle all things in diſpute: which will ſoon be at an end, if you do but think with your ſelves, what will make moſt for the Peace of the Church, or the Kingdom where you live; and reſolve to let that prevail.</p>
+               <p>In order unto which, we muſt let it quell all thoſe unruly Paſſions; which upon ſuch Occaſions, are wont to riſe up in our Hearts. Anger may begin to boil; Pride and Ambition to ſwell; Self-love and Intereſt to make a buſtle, and beſtir them<g ref="char:EOLhyphen"/>ſelves: but then the Love of Peace and Quietneſs ought to get uppermoſt, and bear the greateſt ſway in our Hearts; ſo as to over-rule and keep down all other Affections, which would be troubling us and others.</p>
+               <p>This is the Apoſtle's meaning; and thus the Ho<g ref="char:EOLhyphen"/>ly Men of God underſtood him: who were con<g ref="char:EOLhyphen"/>tent to ſacrifice any thing, but the Chriſtian Faith, to Peace and Quietneſs. Concerning which there
+<pb n="11" facs="tcp:93243:5"/> is an excellent Diſcourſe in the Ppiſtle of <hi>Clemens</hi> (one of the Apoſtles immediate Succeſſors) to the Church of <hi>Corinth.</hi> Where he ſhows, that thoſe Contentions which began in St. <hi>Paul</hi>'s days, and could not it ſeems be ſuppreſſed by the Apoſtolical Authority alone; would have immediately been ſubdued and quaſht, by the Peace of God, if it had been grafted and born Rule in their Hearts.</p>
+               <p>
+                  <q>Who is there, ſaith he, that is of a generous Spirit among you? Who is there that hath any Bowels of Compaſſion? Who, that is full of Charity? Let him ſay, If this Sedition be for my ſake; if this Contention, theſe Schiſms, be up<g ref="char:EOLhyphen"/>on my Account, I am gone, I depart whither you pleaſe. There is nothing that ſhall be en<g ref="char:EOLhyphen"/>join'd me, but I will do it. Only let the Flock of Chriſt be in Peace, with the Elders that are ſet over it. Thus they, who live that Life which is never to be repented of, have done, and will do. For we have known many, who to be the Authors of Liberty to others, have thrown them<g ref="char:EOLhyphen"/>ſelves into Bonds: and many have left their own Cities, that there might be no Strife and Conten<g ref="char:EOLhyphen"/>tion about them.</q>
+               </p>
+               <p>And what he ſaith Godly Men would do here<g ref="char:EOLhyphen"/>after, according as others had done before them, for Peace-ſake, was fulfilled, as we find in the Mo<g ref="char:EOLhyphen"/>numents
+<pb n="12" facs="tcp:93243:6"/> of the Church. Where there are Exam<g ref="char:EOLhyphen"/>ples of ſuch Self-denial, as made them deſire (to uſe the words of one of them) to be thrown in<g ref="char:EOLhyphen"/>to the Sea, like <hi>Jonas;</hi> rather than have the Tem<g ref="char:EOLhyphen"/>peſts which was raiſed upon their account, con<g ref="char:EOLhyphen"/>tinue to diſturb the Church. Thus I could ſhow ſome have done ſince, in later Ages. And if we had the ſame humble, the ſame tender-hearted, charitable, and truly generous Spirit, we ſhould think it the greateſt Glory to ſubmit all our par<g ref="char:EOLhyphen"/>ticular Concerns to the Government of Peace; and not let them prevail to the making any pub<g ref="char:EOLhyphen"/>lick Diſturbance, no nor private Quarrels with our Neighbours.</p>
+               <p>Unto which we are now ſo prone, that we fall out, even about a trifling Opinion: wherein we differ one from another. The reaſon is, becauſe we are too full of our ſelves, and too void of Charity and the Peace of God: Which if it did poſſeſs our Hearts, we ſhould not be ſo much wedded as we are to our own Opinions; much leſs indulge our Paſſions; but reſign them all to be ruled and ordered by this Grace, which teaches us to be of a yielding Spirit, as far as Piety will permit.</p>
+               <p>Nay, if our Paſſion, and our Pride were kept under, we ſhould not be impatient to be con<g ref="char:EOLhyphen"/>tradicted:
+<pb n="13" facs="tcp:93243:6"/> nor think our ſelves bound to ingage in the Defence of every thing that we judg to be true; nor to riſe up againſt every thing that we judg to be falſe: But endure without di<g ref="char:EOLhyphen"/>ſturbance, the contrary Opinions of others, which may ſeem untrue to us; if they do no great hurt to the World.</p>
+               <p>Were we poſſeſſed with this deſire alone, to make others better, we ſhould not trouble our ſelves about every Error and Miſtake; if the Remedy will prove worſe than the Diſeaſe: that is, breed Quarrels, and break the Peace, by endleſs Diſ<g ref="char:EOLhyphen"/>putes and Jarrings about it. Our bleſſed Saviour himſelf, the Prince of Peace, did not undertake to free Men from every Error whatſoever: but thoſe only, which concerned the means of their Salvation.</p>
+               <p>And in ſuch matters, when we are conſtrained to declare our Diſſent from others, who are, we apprehend, in dangerous Errors; the Peace of God teaches us to do it in ſuch ſweet and gentle manner, that they may ſee we aim only at their good: And they may not by our rough treating them, take occaſion of diſguſt, not only unto us, but to the Truth alſo which we defend. For we oftentimes give diſtaſte to others, and make them irreconcilable; not ſo much by our contrary Opi<g ref="char:EOLhyphen"/>nion,
+<pb n="14" facs="tcp:93243:7"/> as by a fierce, inſolent, preſumptious, and diſdainful way of propoſing our own Opinion, and oppoſing theirs.</p>
+               <p>But it is far worſe, when we come to terms of Contempt and Reproach: which are common<g ref="char:EOLhyphen"/>ly obſerved to make ſuch Breaches, as are never to be repaired.</p>
+               <p>The <hi>Peace of God</hi> teaches us quite another Leſ<g ref="char:EOLhyphen"/>ſon; and conſtrains us to compaſſionate the Weak<g ref="char:EOLhyphen"/>neſſes of our Brethren; to treat them with Ten<g ref="char:EOLhyphen"/>derneſs, as well as Humanity; and when they are peeviſh, and paſſionate, and prone to quarel, even then to bear with them, and meekly reduce them to a better Temper.</p>
+               <p>For the Weakneſſes of our Brethren, make them Objects of our Pity, not of our Anger. And they are never more to be pitied, than when they cannot be cured, by our charitable Compaſſion, and Forbearance of them. Unto which we ſhall be the more inclin'd, if we conſider that we are Men alſo, and may poſſibly fall into the ſame Error, and commit the ſame Faults: and then what we tolerate in them, it will be their turn to bear withal in us. But eſpecially if we conſi<g ref="char:EOLhyphen"/>der, that we are Chriſtians, who lie under this Law: <hi>Bear ye one anothers Bardens, and ſo fulfil the Law of Chriſt;</hi> Gal. vi. 2. Which Lavv of Chari<g ref="char:EOLhyphen"/>ty,
+<pb n="15" facs="tcp:93243:7"/> and Peace being not fulfilled, is the cauſe of all the Vexatious Diſturbances that are in the World.</p>
+               <p>We do not mind this Chriſtian Obligation, to <hi>bear one anothers Burdens.</hi> We have other Inclina<g ref="char:EOLhyphen"/>tions, than to obey the Will of our bleſſed Lord. We ſeek our ſelves, our ovvn Glory, our ovvn Pleaſure, our ovvn Intereſt and Satisfaction in every thing; and are not ſatisfied vvith this, that God is glorified, our Saviour honoured, Piety promoted, the Church edified; by our Patience, by our Peaceableneſs, by our Forbearance one of another; and by our ſtudying the good of our Neighbours as the greateſt Contentment to our ſelves.</p>
+               <p>Thus I have explain'd the <hi>firſt</hi> part of my Text, the <hi>Duty:</hi> vvhich I have preſſed the more earneſt<g ref="char:EOLhyphen"/>ly, becauſe Strife and Contention, vvill ſpoil all the <hi>Faſtings</hi> and <hi>Humilitations</hi> of this ſeaſon: nay, utterly defeat our very <hi>Prayers</hi> and <hi>Supplications.</hi> Which then vvill <hi>obtain of the God of all Mercy,</hi> that <hi>perfect Remiſſion and Forgiveneſs,</hi> vvhich vve beg of him: vvhen they diſpoſe us to be <hi>merciful, as our Heavenly Father is merciful; to be kind one to another</hi> (as the Apoſtle ſpeaks <hi>Epheſ.</hi> v. 32.) <hi>ten<g ref="char:EOLhyphen"/>der-hearted, forgiving one another, even as God for Chriſt's ſake hath forgiven us.</hi>
+               </p>
+               <pb n="16" facs="tcp:93243:8"/>
+               <p>Come vve novv to the <hi>ſecond</hi> part, vvhich is the Reaſon, vvhereby the Apoſtle urges this Duty.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>And that is double, as you heard: <hi>Firſt,</hi> vve are called to it. <hi>Secondly,</hi> vve are called to it, <hi>in one Body.</hi>
+               </p>
+               <p>For the firſt of theſe, it ſuggeſts to us <hi>three</hi> Ob<g ref="char:EOLhyphen"/>ligations;<note place="margin">I.</note> vvhereby vve are bound to be peaceable. <hi>Firſt,</hi> by the <hi>preaching of the Goſpel</hi> to us. <hi>Secondly,</hi> by the <hi>Special Favour,</hi> vvhich God has done us therein. <hi>Thirdly,</hi> by the <hi>high Honour</hi> he hath alſo conferred upon us, in making us partakers of his Heavenly Calling.</p>
+               <p>1. <hi>Firſt,</hi> I ſay, <hi>Calling</hi> is a vvord vvhich relates to the <hi>preaching</hi> of the Goſpel, by vvhich vve vvere <hi>called unto Belief of the Truth</hi> (2 Theſſ. ii. 13, 14.) and by that Truth not only taught, but required, <hi>to be at Peace among our ſelves,</hi> (1 <hi>Theſſ.</hi> v. 13.) and to <hi>keep the Unity of the Spirit in the Bond of Peace</hi> (Epheſ. iv. 3.) Nay, <hi>if it be poſſible, as much as lieth in us, to live peaceably with all Men</hi> (Rom. xii. 18.) or, if they refuſe it, yet to <hi>follow Peace with all Men,</hi> (Heb. xii. 14.) <hi>to ſeek Peace and enſue it,</hi> (1 Pet. iii. 11.)</p>
+               <pb n="17" facs="tcp:93243:8"/>
+               <p>
+                  <hi>Finally, brethren,</hi> (as St. <hi>Paul</hi> writes, 2 <hi>Cor.</hi> xiii. 11.) <hi>be perfect, (i. e.</hi> compleat Chriſtians) <hi>be of good comfort</hi> (or receive this Word of Exhortation), <hi>be of one mind, live in peace, and the God of love and peace ſhall be with you;</hi> that is, as we deſire and hope for, the Favour and Love of God, and for all the bleſſed Effects and Fruits thereof, we are bound to live in peace. For he is the <hi>God of peace and love:</hi> and his Son is the <hi>Prince of peace;</hi> who left Peace with his Church, as his laſt Legacy when he left the World: <hi>Peace I leave with you, my peace I give unto you, John</hi> XIV. 27. And his Goſpel is the <hi>Goſpel of peace,</hi> the <hi>word of re<g ref="char:EOLhyphen"/>conciliation;</hi> which inſtructs us in that Heavenly Wiſdom, (<hi>Jam.</hi> III. 17.) <hi>which is firſt pure, then peace<g ref="char:EOLhyphen"/>able, gentle, and eaſie to be entreated;</hi> or, <hi>eaſily perſua<g ref="char:EOLhyphen"/>ded,</hi> unto thoſe things which make for peace, tho' therein we deny our own Will, and particular In<g ref="char:EOLhyphen"/>tereſt.</p>
+               <p>This is the Genius of that Religion, unto which we are called by the preaching of Chriſt's Goſpel.</p>
+               <p>2. And it was the greateſt favour and grace that Heaven could beſtow upon us, to communicate un<g ref="char:EOLhyphen"/>to us the knowledge of his Will, and to make us of this heavenly Spirit; for ſo the word <hi>Calling</hi> is ſome<g ref="char:EOLhyphen"/>times uſed in Scripture; for the free Grace and
+<pb n="18" facs="tcp:93243:9"/> Bounty of God, in oppoſition to any work of ours, whereby we could deſerve it; as in <hi>Rom.</hi> IX. 11. <hi>That the purpoſe of God might ſtand, not of works, but of him that called:</hi> that is, mercifully di<g ref="char:EOLhyphen"/>ſpenſed the benefit, according to his own Free-will and good Pleaſure.</p>
+               <p>We do not underſtand our own happineſs, nor the great Grace of God to us, if we do not think our ſelves highly obliged to him, in commanding and diſpoſing us by the Goſpel of his Grace, to be peaceably minded; that is, to be, as I ſaid, of an Heavenly Spirit: For what other Notion can we frame of the Happineſs of thoſe above, but that they live in perfect love of God, and of one ano<g ref="char:EOLhyphen"/>ther, without any diſcord or contention; which would diſturb their Bleſſed Repoſe? For having all the very ſame End and Deſign, the very ſame Af<g ref="char:EOLhyphen"/>fections and Deſires, which are to do Honour to God, and to promote one anothers good; there can be no rupture, nor ſo much as quarreling or diſſention among them; which ariſe from mens private deſires and aims, and the croſs Intereſts which they purſue in this preſent world.</p>
+               <p>And therefore the more perfectly we diveſt our Minds of all ſelfiſhneſs, and bend our thoughts to ſtudy the common good; the nearer we ſhall ap<g ref="char:EOLhyphen"/>proach
+<pb n="19" facs="tcp:93243:9"/> to their Bleſſed State; and the fitter we ſhall be for the Company of happy Souls and Spi<g ref="char:EOLhyphen"/>rits, by ſuch a ſweet Concord and Agreement here, as reigns in the Peaceable Society of Hea<g ref="char:EOLhyphen"/>venly Minds in the other World.</p>
+               <p>And on the contrary, while we live in Wrath and Bitterneſs, in Pride and Diſdain one of ano<g ref="char:EOLhyphen"/>ther; and thereby are engaged in perpetual Con<g ref="char:EOLhyphen"/>teſts, and quarrelſome Differences, purſuing one another with a deadly hatred; we are of the ſame Nature and Diſpoſition with the Infernal Ghoſts, the Devil and his Angels: And if we go out of the World in this wretched Temper of Mind (which cannot be changed in a moment) we fall unavoidably into their troubleſome Company; who could not be quiet even in Heaven it ſelf, but there raiſed ſuch a Faction and Diſturbance, that they were thruſt down from that Bleſſed Place, and condemned to keep one another company in endleſs Miſery and Deſpair.</p>
+               <p>And one great part of their Miſery, we all ap<g ref="char:EOLhyphen"/>prehend, is, That they are ever reſtleſs and unquiet, unalterably bent to trouble and torment themſelves, by contriving how to make diſturbance among others.</p>
+               <pb n="20" facs="tcp:93243:10"/>
+               <p>Which ſhows what a kindneſs our Bleſſed Sa<g ref="char:EOLhyphen"/>viour hath done us, in calling us unto Peace; and thereby redeeming us from the Society of thoſe rancorous Spirits; unto whom we are ſo ſtrongly linkt, while we are of a turbulent and untractable Spirit, that we muſt neceſſarily fall into their Company, when we depart from hence; if we be not cured of this Diſeaſe, and have our Natures al<g ref="char:EOLhyphen"/>tered into the peaceable Mind that was in Chriſt Jeſus.</p>
+               <p>3. By which we underſtand, <hi>Thirdly,</hi> the <hi>Ho<g ref="char:EOLhyphen"/>nour</hi> alſo our Lord hath done us, in calling us to be peaceable; for this the word <hi>Calling</hi> im<g ref="char:EOLhyphen"/>plies, in <hi>Rom.</hi> XI. 29. <hi>The gifts and calling of God, are without Repentance.</hi> Where <hi>Calling</hi> is the great <hi>Preferment</hi> God deſigned for <hi>Abraham</hi>'s Family, and to which accordingly he advanced them; wherein he intended immutably to have conti<g ref="char:EOLhyphen"/>nued them, if they had believed on him, as <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> did.</p>
+               <p>And indeed we are called to a very high Dignity, by being called unto Peace; for it intitles us to the Honour of being the Chil<g ref="char:EOLhyphen"/>dren of the Moſt High. So our Saviour in<g ref="char:EOLhyphen"/>ſtructs us in his Sermon upon the Mount,
+<pb n="21" facs="tcp:93243:10"/> Matt. V. 9. <hi>Bleſſed are the peacemakers; for they ſhall be called the children of God.</hi>
+               </p>
+               <p>
+                  <hi>Peace-makers,</hi> are peaceable minded men. For as <hi>to make a lie,</hi> in Scripture Language, is to be given to Lying, and to make a practice of it: So to <hi>make peace,</hi> is to have a ſtrong conſtant inclination to it; and to bend that way, upon all occaſions. Which is a Divine diſpoſition, and makes us like to God: So like him, that we may thereby be known to be his off-ſpring; who are endued with his moſt excellent Nature, and act by his Spirit; and therefore ſhall be partakers of his bleſſed<g ref="char:EOLhyphen"/>neſs.</p>
+               <p>This is the ſum of the firſt part of the Reaſon: We do not anſwer the gracious deſign of the Go<g ref="char:EOLhyphen"/>ſpel, and the great kindneſs and honour Chriſt hath done us, if we do not let the peace of God Rule in our hearts; unto which we are called in one body.</p>
+               <p>II. That's the <hi>ſecond</hi> part of it; We are therefore called unto peace, becauſe we are called to be <hi>one body;</hi> of which Chriſt is the Head.</p>
+               <p>When we were made Chriſtians, we were not brought into that ſtate, to live ſeparately and di<g ref="char:EOLhyphen"/>ſtinctly, every one of us by our ſelves; as our par<g ref="char:EOLhyphen"/>ticular
+<pb n="22" facs="tcp:93243:11"/> Fancies and Affections ſhall incline us: But to be knit together in one Chriſtian Society; every Part of which is to ſeek his own good, intereſt and ſafety, by preſerving the Whole in peace and quietneſs, without any rupture in the Body of Chriſt. For by that the Body is deſtroyed; as by union of the Members it is maintained and pre<g ref="char:EOLhyphen"/>ſerved.</p>
+               <p>There is nothing plainer, than that no Society can ſubſiſt, unleſs they who belong to it, as Members of it, live peaceably together; as the Members of the Natural Body do: which are made to love, and have a care one of another, and keep all to<g ref="char:EOLhyphen"/>gether, without any diviſion; for that certainly tends to its diſſolution. But above all others, the Chriſtian Body, or Society, is diſpoſed and bound hereunto: by its very <hi>Conſtitution;</hi> and by various <hi>Obligations.</hi>
+               </p>
+               <p>As for its <hi>Conſtitution;</hi> It is founded upon the Law of love, and kindneſs, and mutual care of each other: By which our Saviour hath told us, all his Diſciples are to be known, as by their very Badge and proper Character.</p>
+               <p>And as for their <hi>Obligation;</hi> St. <hi>Paul</hi> reckons up a great number of things, wherein we are united; and thereby tied <hi>to keep the unity of the ſpirit in the
+<pb n="23" facs="tcp:93243:11"/> bond of peace,</hi> Epheſ. IV. 5, 6. <hi>There is one Body,</hi> That's the firſt and general obligation: And what can be more <hi>unnatural,</hi> than for the Members of the ſame Body, to quarrel and fall out, and tear one another in pieces? <hi>And one ſpirit</hi> (that's the <hi>ſecond</hi>) the Spirit of Love and Truth, which ſuggeſts the ſame peaceable inclinations to every one, that it doth to any one; and what more <hi>unchriſtian</hi> than to throw off the Govern<g ref="char:EOLhyphen"/>ment of this one Heavenly Guide, and to live as if we were ſeverally acted by ſo many In<g ref="char:EOLhyphen"/>fernal Furies?</p>
+               <p>
+                  <hi>Even as we are called in one hope of our calling,</hi> (that's the <hi>third</hi>) we muſt all be Friends in Heaven, if we ever meet there; Why do we bite then, and devour one another in the way thither?</p>
+               <p>
+                  <hi>One Lord,</hi> (that's the next) who redeemed us all, at the ſame rate of his own moſt precious Blood: And is it agreeable to this relation, for the Servants of the ſame Maſter to make diſturbance, nay, confuſion in his Family? Is this, think you, for his Service? Or can it turn to our good ac<g ref="char:EOLhyphen"/>count, when he reckons with us?</p>
+               <p>
+                  <hi>One Faith,</hi> delivered to us by his Apoſtles; How come we to fall out about that, which teaches us
+<pb n="24" facs="tcp:93243:12"/> to agree? For <hi>faith worketh by love,</hi> as the Apoſtle ſpeaks, <hi>Gal.</hi> V. 6.</p>
+               <p>
+                  <hi>One Baptiſm,</hi> whereby we are received into Chriſt's Family, upon the ſame terms and condi<g ref="char:EOLhyphen"/>tions. <hi>We are marked with the ſame Cognizance</hi> (as an excellent Writer of our own gloſſes upon it <note n="*" place="margin">Bp. <hi>Bram<g ref="char:EOLhyphen"/>hall</hi>'s An<g ref="char:EOLhyphen"/>ſwer to <hi>S. W.</hi> p. 5<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Edit. 1.</note>) <hi>we uſe the ſame word, we march under the ſame banner;</hi> How come we to miſtake one another for Enemies?</p>
+               <p>
+                  <hi>Laſtly,</hi> There is <hi>one God and Father of all, who is above all,</hi> by his moſt excellent Nature; <hi>and through all,</hi> by his Providence and Care of the whole World, eſpecially of every Member of the Church; <hi>and in all,</hi> by the operations of his Grace in our hearts. For Chriſtians then to contend, and quar<g ref="char:EOLhyphen"/>rel, and fight, What is it, but to divide this <hi>one God,</hi> to commit him againſt himſelf, to diſown his Government, to croſs his Motions, to refuſe to follow the conduct of his Graces, which works in us; and by abandoning our ſelves unto our own paſſions, to throw our ſelves out of his Fa<g ref="char:EOLhyphen"/>therly care of us, and Favour towards us; and to expoſe our ſelves to all the ſin and all the miſ<g ref="char:EOLhyphen"/>chief, unto which the malice of the Evil Spirit can hurry us?
+<pb n="25" facs="tcp:93243:12"/> Behold here, not <hi>one</hi> or <hi>two</hi> alone, but <hi>ſeven</hi> Bands of Unity and Peace among Chriſtians: whereby they are tied to ſuch mutual care of each others welfare; that they cannot vex, much leſs deſtroy one another, unleſs they forget all theſe Obliga<g ref="char:EOLhyphen"/>tions, and break theſe Bands in ſunder.</p>
+               <p>Nay, there is not a Leaf in the whole Book of God (wherein we read theſe things) but it teaches us this bleſſed accord. The very Body of the holy Scriptures, we might eaſily ſee if we did ob<g ref="char:EOLhyphen"/>ſerve, from the one end of them to the other, is a moſt lively Image and Type of this <hi>unity of the ſpirit in the bond of Peace,</hi> which the Apoſtle com<g ref="char:EOLhyphen"/>mends unto us in this place. For though the Writers of them lived in divers Ages, in diſtant places, and were of different tempers; yet they all moſt admirably agree together, having the ve<g ref="char:EOLhyphen"/>ry ſame reliſh in their writings; carrying on the ſame deſign, and aiming at the ſelf ſame end; without the leaſt ground for ſuſpicion, that they had any private reſpect to themſelves.</p>
+               <p>Let us but remember then, that we have ſo ma<g ref="char:EOLhyphen"/>ny ties upon us, and endeavour to have a feeling of them; and then, as the conſideration that we are Members of the ſame civil Society, moves us to be at peace one with another in the <hi>State,</hi> which cannot otherways ſubſiſt, but muſt be diſ<g ref="char:EOLhyphen"/>ſolved:
+<pb n="26" facs="tcp:93243:13"/> So the ſerious conſideration that we are Members of the ſame Sacred Body of Chriſt, linkt together by ſo many ſtrong ligaments, will much more move us, to ſtudy the Peace of his <hi>Church;</hi> which cannot be preſerved, but by a firm Union of thoſe parts of which it conſiſts, and is made up.</p>
+               <p>To end this, let it be conſidered that <hi>the peace of God,</hi> here mentioned, is a branch of <hi>Charity;</hi> as appears by the foregoing words, <hi>v. 14. And above all theſe things, put on Charity, which is the bond of perfectneſs. And let the peace of God rule in your hearts,</hi> &amp;c. Which tell us, that peace is the na<g ref="char:EOLhyphen"/>tural effect and product, of a lively and ſincere Love in the Heart: Eſpecially of ſuch a love, as is between the Members of the ſame Body.</p>
+               <p>1. For we naturally fear to do any harm to thoſe we love: And it is from the injuries we do one another, of ſeveral ſorts, that abundance of quarrels and contentions ariſe among us.</p>
+               <p>2. But ſuppoſe any hurt be done, the affe<g ref="char:EOLhyphen"/>ction we have to thoſe whom we dearly love, diſpoſes to look upon all the faults <hi>we</hi> commit againſt <hi>them,</hi> as great; and all that <hi>they</hi> commit againſt <hi>us,</hi> as ſmall. Which ſtops up the very ſource of quarrels: which, for the moſt part, ſpring from thoſe falſe Ideas, which make all
+<pb n="27" facs="tcp:93243:13"/> things that concern our ſelves look very bigg; and thoſe that concern other men ſeem very little.</p>
+               <p>3. Nay, we are ſo far from being diſpoſed to hurt thoſe we love, that we cannot but per<g ref="char:EOLhyphen"/>ceive an inclination we have to ſerve and ſuc<g ref="char:EOLhyphen"/>cour them, the beſt we are able. Which it is not poſſible for us to do, unleſs we be at peace with them. For Peace is the very gate, by which we enter into their Hearts; which is barred a<g ref="char:EOLhyphen"/>gainſt us, when men have an averſion for us, and are upon terms of Enmity or oppoſition to us. Therefore if we be bound to help, we are bound to be at peace, one with another. And all that have any ſenſe of <hi>Humanity,</hi> can<g ref="char:EOLhyphen"/>not but confeſs that we are made by God to be helpful one to another: which <hi>Chriſtianity</hi> can<g ref="char:EOLhyphen"/>not but make us more ſenſibly acknowledge. Be<g ref="char:EOLhyphen"/>cauſe of the ardent love, which, above all things, it commends to us; and is no where ſo ſtrong, as between Members of the ſame Body; eſpeci<g ref="char:EOLhyphen"/>ally of ſuch a Body as theirs, which hath Chriſt for its Head, and the Spirit of God for its Soul and Life. Which inclines them and powerfully moves them, to hold all together in love and peace: as the only means of preſerving and edi<g ref="char:EOLhyphen"/>fying the Body of Chriſt, and alſo of perfecting it for the happy Reſt of the other World.</p>
+               <pb n="28" facs="tcp:93243:14"/>
+               <p>Thus I have given a brief account of the <hi>Rea<g ref="char:EOLhyphen"/>ſons</hi> for this duty. Which ſufficiently commends it ſelf to us, in that it is the peace <hi>of God:</hi> but the Apoſtle preſſes it from this conſideration <hi>alſo,</hi> that we are <hi>called to it in one body.</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>I proceed now to the laſt part of my Text, the means or help (as I underſtand it) which the Apoſtle preſcribes, for the introducing, and increaſing the <hi>peace of God;</hi> and giving it the <hi>rule</hi> over our hearts: which is contained in theſe Words; <hi>And be ye thankful.</hi>
+               </p>
+               <p>We are very apt, as you have heard, to be diſ<g ref="char:EOLhyphen"/>guſted at many things, which are diſagreeable to us: from whence ariſes, much diſquiet, diſcon<g ref="char:EOLhyphen"/>tent, and ſometimes quarrels with thoſe, who give us ſuch diſtaſte. But if we would ſpend that time, in recounting Gods mercies to us, and giving him our ſolemn thanks for them, which we ſpend in complaining, in finding fault one with another, and aggravating every thing which diſpleaſes us; we ſhould be perfectly cured of thoſe diſtempers; and aſhamed to make ſuch a buſtle and ſtirr, as we are wont to do, about ſuch ſmall things, as now diſquiet us.</p>
+               <p>Thankfulneſs, we all agree, is a Chriſtian Duty, as much as any other.</p>
+               <pb n="29" facs="tcp:93243:14"/>
+               <p>And not only a Duty enjoyn'd us by God, but to which we are inclined by Nature; if our Hearts be touched with the leaſt ſenſe of his Divine Be<g ref="char:EOLhyphen"/>nefits.</p>
+               <p>And that it is very pleaſant and delightful, as all natural Motions are, every one may feel, who pleaſes to make a trial.</p>
+               <p>And no leſs profitable and beneficial, we muſt needs acknowledge; becauſe he invites a new Benefit, who moſt gratefully acknowledges the old.</p>
+               <p>And laſtly, (to omit the reſt) we cannot but confeſs, that nothing more becomes us, than Thankfulneſs; becauſe we have nothing originally of our ſelves, but all purely from God. Which makes it the moſt decent thing in the World, to be paying him our perpetual acknowledgments.</p>
+               <p>Or if there ſhould be any one ſo perverſe, as not to be ſenſible of this, he cannot but yield, that it is far more decent and becoming, than perpetual complaints and diſcontents, brawlings and ſcold<g ref="char:EOLhyphen"/>ings one with another, about every petty difference.</p>
+               <p>Far more agreeable, I am ſure, to the Chri<g ref="char:EOLhyphen"/>ſtian Spirit (if we know what that is) more be<g ref="char:EOLhyphen"/>ſeeming thoſe who lye under infinite Obligations to God our Saviour, which challenge our higheſt and inceſſant Praiſes; than it is to murmur and
+<pb n="30" facs="tcp:93243:15"/> repine, to find faults and pick quarrels, to contend and ſtrive; which end too oft in fighting and deſtroying one another.</p>
+               <p>We may well be aſhamed then, and con<g ref="char:EOLhyphen"/>founded at our folly and diſingenuity, if we do not live in a ſincere practice of this Duty: Which, if we do, will be an effectual means to ſuppreſs all ſuch unſeemly behaviour as that above-men<g ref="char:EOLhyphen"/>tioned; becauſe it ſtrikes at the very root of all Diſcontent, and Wrath, and Pride, and ſuch like evil Affections, which give diſturbance unto us, and unto others.</p>
+               <p>We cannot eaſily be diſcontented about any thing, when we ſet our ſelves ſeriouſly to con<g ref="char:EOLhyphen"/>ſider, how many Bleſſings, both temporal and ſpiritual, paſt, preſent and to come, we ſtand indebted for to the Divine Bounty; and accord<g ref="char:EOLhyphen"/>ingly <hi>offer to him the Sacrifice of Praiſe continually, giveing Thanks unto his Name.</hi>
+               </p>
+               <p>We ſhall ſoon ſuppreſs Anger and Rage at thoſe that offend us, when we remember with due thankfulneſs, as we ought to do perpetually, how oft we have provoked God; and have been mercifully forborn, and forgiven by his patient and long-ſuffering goodneſs towards us.</p>
+               <p>The ſwellings of Pride will preſently go down, when Thankfulneſs puts us in mind, that we are
+<pb n="31" facs="tcp:93243:15"/> nothing, nor have any thing of our own; but depend wholly upon God: Who can ſoon humble us, and lay us low, if we be forgetful of his bounty to us.</p>
+               <p>All harſhneſs and ſeverity will be abated, by the thoughts of God's lenity, compaſſion and kind dealing with us: there will be no room for fretting Envy, to trouble us, or moleſt others; but it will be immediately thruſt out of doors, when this Thought comes into our Mind, and fills our Heart with devout Affections to God: That we are in a far better condition than we deſerve; and, if we be ungrateful, may fear to be in a worſe.</p>
+               <p>In ſhort, All thoſe Graces from whence (I ob<g ref="char:EOLhyphen"/>ſerved in the beginning) the Peace of God ſprings, are manifeſtly maintained and nouriſhed by continual thankfulneſs to God for all his Bene<g ref="char:EOLhyphen"/>fits. In which if we exerciſe our ſelves, it will give the <hi>Peace of God</hi> the government of us; by making us humble and courteous, mild and gentle, kind and merciful, meek and patient; which are the natural qualities of a truly thankful Chri<g ref="char:EOLhyphen"/>ſtian.</p>
+               <p>Let us make this then our conſtant employment and our delight; and look upon a thankful Heart,<note place="margin">Hom. 1. ad Pop. Anti<g ref="char:EOLhyphen"/>och.</note> as <hi>a great Treaſure</hi> (to uſe the words of St. <hi>Chryſoſtome</hi>)
+<pb n="32" facs="tcp:93243:16"/> 
+                  <hi>ineſtimable Riches, a Good of which none can rob us, Armour of Defence againſt all Temptations.</hi>
+               </p>
+            </div>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>And <hi>firſt,</hi> as we are <hi>Men who live together in the ſame neighbourhood,</hi> let us be thankful to God for all the good we receive one by another; and then we ſhall the eaſier paſs by any evil that is done us; becauſe it is ſmall and inconſiderable, in compa<g ref="char:EOLhyphen"/>riſon with the good we do, or may receive, by our neighbourly living together in one Society, Family, Pariſh or City.</p>
+               <p>There is not the meaneſt Man among us, who doth not ſome way or other ſerve the greateſt: God having ſo made this World, that we ſhould be help<g ref="char:EOLhyphen"/>ful one to another in our ſeveral ranks and conditi<g ref="char:EOLhyphen"/>ons; nay, that one ſort of Men ſhould not be able comfortably to ſubſiſt, without the ſervice of the reſt.</p>
+               <p>Which if we did conſider, we ſhould perceive ſo many and great benefits we reap thereby, that it would make us confeſs we have great reaſon to be thankful to the Creator and wiſe Diſpoſer of all things: And that Thankfulneſs would moderate all the Diſguſts we take one at another, which diſturb our private peace and quietneſs.</p>
+               <p>Nay the Benefits we receive by ſome Men are ſo very conſiderable; that if we were not ex<g ref="char:EOLhyphen"/>tremely ungrateful, we could not be ſo apt
+<pb n="33" facs="tcp:93243:16"/> as we are, to find fault with every thing we do not like in them: But for the ſake of the greater good they do us, ſhould wink at, or rather not mind, the ſmaller faults, we ſee or fancy in them. With which we are wont to be ſo diſtaſted, as to forget all the Excellent Qualities they are indowed withal, and the great ſervice they do to all mankind.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>But if we enlarged our thoughts beyond theſe bounds, and conſidered our ſelves as <hi>Mem<g ref="char:EOLhyphen"/>bers of the ſame Kingdom,</hi> we ſhould find ſo ma<g ref="char:EOLhyphen"/>ny obligations to be thankful to God for the invaluable Bleſſings of Order and Government; that it would mightily appeaſe that Heat and Violence which is very troubleſome to us and others; when our Paſſions begin to raiſe a commotion, and to make us diſpleaſed with the preſent ſettlement.</p>
+               <p>For it is by the Protection and Favour of the publique Government, that we eat, and drink, and ſleep, and do all other things, in ſafety.</p>
+               <p>Which thought alone is ſufficient to quiet us, when our Spirits begin to fret and be tu<g ref="char:EOLhyphen"/>multuous: That is, to quarrel with our Hap<g ref="char:EOLhyphen"/>pineſs.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="34" facs="tcp:93243:17"/>
+               <head>III.</head>
+               <p>But let us ſtill further make our ſelves ſenſi<g ref="char:EOLhyphen"/>ble, of the far Nobler Benefits which we en<g ref="char:EOLhyphen"/>joy, <hi>by being Chriſtians,</hi> and be truly thankful to God for them; more particularly for his great Grace, in <hi>calling</hi> us to be <hi>one body</hi> in Chriſt; and thereby calling us unto Peace one with another, and to Peace with him the <hi>God of Peace</hi> (who will be with us, as I have ſaid, while we continue perfectly joyned together in the ſame Mind and Spirit) and then, we ſhall not have the heart to give the leaſt diſturbance unto this Bleſſed Society, of the Church of God: But with united Affection, ſtudy to pre<g ref="char:EOLhyphen"/>ſerve it, and to promote the Honour of it, by the moſt ardent Love and kindneſs, tenderneſs and compaſſion one towards another; eſpeci<g ref="char:EOLhyphen"/>ally in that part of it where we live.</p>
+               <p>Read the pathetical Exhortation of the A<g ref="char:EOLhyphen"/>poſtle in the Verſes foregoing, upon which my Text depends; and it will be impoſſible not to have your heart affected with it, if you at<g ref="char:EOLhyphen"/>tend unto it, and ponder every Word. <hi>Put on therefore (as the Elect of God, Holy and Be<g ref="char:EOLhyphen"/>loved) bowels of Mercy, kindneſs, humbleneſs of mind, meekneſs, long ſuffering; forbearing one
+<pb n="35" facs="tcp:93243:17"/> another, and forgiving one another, if any Man have a quarrel againſt any: Even as Chriſt forgave you, ſo alſo do ye. And above all theſe things put on Charity,</hi> &amp;c.</p>
+               <p>What if you did read theſe Verſes delibe<g ref="char:EOLhyphen"/>rately every Morning, before you went about any other buſineſs? It would not take up much of your time, nor coſt you much pains; un<g ref="char:EOLhyphen"/>leſs it be in laying them to heart, and laying them up in your Hearts. But whatſoever La<g ref="char:EOLhyphen"/>bour you beſtow in that, it will be abundant<g ref="char:EOLhyphen"/>ly recompenſed in the Benefit, you and others will receive by it: if this ſmall portion of <hi>the Word of Chriſt, dwell in you richly</hi> (as it follows immediately after my Text) and diſpoſe you to continue in this Heavenly Temper all the day long.</p>
+               <p>And how can you chuſe but be ſo diſpoſed, if you conſider how much you are bound to God for his ineſtimable benefits beſtowed up<g ref="char:EOLhyphen"/>on you: in making you his <hi>Elect, Holy and Be<g ref="char:EOLhyphen"/>loved.</hi> Ponder theſe <hi>Three</hi> Words ſeriouſly, and look upon your ſelves as <hi>Elect of God,</hi> that is, <hi>choſen unto Salvation, through Sanctification of the Spirit and Belief of the Truth</hi> (as he ſpeaks 2 Theſ. 11. 13.) <hi>Holy,</hi> that is, ſeparated from the profane World, to be his devoted Servants:
+<pb n="36" facs="tcp:93243:18"/> 
+                  <hi>Beloved,</hi> that is made partakers of the greateſt kindneſs Heaven could do us, in ſending his Son to ſave us: And then you will not be able to reject the Exhortation which ſpeaketh unto you as unto Children V. <hi>Epheſ</hi> 1, 2. <hi>Be ye there<g ref="char:EOLhyphen"/>fore followers of God, as dear Children; and walk in Love, as Chriſt alſo hath loved us, and hath given himſelf for us, an Offering and a Sacrifice to God for a ſweet ſmelling ſavour.</hi>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>Eſpecially when we remember that we are not bare Chriſtians but <hi>Reformed Chriſtians:</hi> whoſe Principles lead to Unity and Peace, more than the Principles of any other Chriſtians whatſoever.</p>
+               <p>For the very <hi>Baſis</hi> of the <hi>Reformed Religion</hi> is this, that <hi>all neceſſary Truths are not only con<g ref="char:EOLhyphen"/>tained in the Holy Scriptures; but evidently and plainly ſet down there.</hi> Which ſingle Truth being agreed; it is manifeſt there muſt needs be an <hi>
+                     <g ref="char:V">Ʋ</g>nity of opinions</hi> among us, in all things <hi>neceſſary.</hi>
+               </p>
+               <p>And as for other things which are not evi<g ref="char:EOLhyphen"/>dent in the Holy Scriptures, and therefore are <hi>not neceſſary;</hi> what ſhould hinder, but that notwithſtanding any different Opinions
+<pb n="37" facs="tcp:93243:18"/> about them, there may be among us an <hi>
+                     <g ref="char:V">Ʋ</g>nity of Affection.</hi> Unto which the Holy Scriptures direct and preſs us, as the moſt neceſſary duty; and as the greateſt happineſs, of which this World is capable.</p>
+               <p>For there is nothing the Goſpel urges ſo much, as kindneſs, forbearance, tender com<g ref="char:EOLhyphen"/>paſſion one of another: Such kindneſs, as ma<g ref="char:EOLhyphen"/>king us look upon one another as Brethren, and fellow-Members, will not let us break all the bonds of Friendſhip, that are between us.</p>
+               <p>For why ſhould there be any breach among thoſe, who are agreed in this plain principle? That there being Unity of Opinion among them in all things Neceſſary; in things not neceſſary, Unity of Opinion is not neceſſary, but only U<g ref="char:EOLhyphen"/>nity of Affection Which will make us ſtudy, and embrace the means of our Common Preſer<g ref="char:EOLhyphen"/>vation; by mutual condeſcention to ſuch terms of Agreement, as will eſtabliſh a firm and undi<g ref="char:EOLhyphen"/>ſturbed peace among us.</p>
+               <p>In which, if there ſhould happen any breach, the ſame Spirit of love and goodneſs will diſpoſe us immediately to make it up; by not adhere<g ref="char:EOLhyphen"/>ing too flifly to our own private opinions; much leſs to any worldly intereſt: which muſt be laid
+<pb n="38" facs="tcp:93243:19"/> aſide by all peaceable-minded men; that is, by all good Chriſtians.</p>
+               <p>Who ought not to engage in fierce oppoſi<g ref="char:EOLhyphen"/>tions, much leſs in confident cenſuring and con<g ref="char:EOLhyphen"/>demning one another; but with all humility modeſty, and calmneſs endeavour each others information: or, if that cannot be obtain'd pa<g ref="char:EOLhyphen"/>tiently to bear with one anothers infirmities<g ref="char:punc">▪</g> ac<g ref="char:EOLhyphen"/>cording to the forenamed golden<g ref="char:punc">▪</g> Rule of St. <hi>Paul,</hi> VI. Gal. 2. <hi>Bear ye one anothers burdens, and ſo fulfil the Law of Chriſt.</hi>
+               </p>
+               <p>The <hi>Law of Chriſt,</hi> that is, his <hi>peculiar</hi> Law, is the Law of Love: which he calls a <hi>new Commana<g ref="char:EOLhyphen"/>ment,</hi> XIII. <hi>Joh.</hi> 34. and <hi>his</hi> Commandment, XV. Joh. 12. <hi>This is my Commandment, that ye love one another, as I have loved you.</hi> Which we then ful<g ref="char:EOLhyphen"/>fil, or perfectly obſerve; when it makes us <hi>bear one anothers burdens,</hi> that is, offences; whether they be infirmities or ſins.</p>
+               <p>For as long as there are any hopes of amend<g ref="char:EOLhyphen"/>ment, we ought (as the Apoſtle there teaches in the Verſe foregoing) <hi>if any man be overtaken with a fault, to reſtore ſuch a one with the Spirit of meek<g ref="char:EOLhyphen"/>neſs; conſidering our ſelves, leſt we alſo be tempted.</hi> That is, we muſt tenderly admoniſh ſuch offenders, ſtudy in the kindeſt and ſofteſt manner to reclaim them: which is no ſmall labour and trouble in<g ref="char:EOLhyphen"/>deed;
+<pb n="39" facs="tcp:93243:19"/> but thereby we in the propereſt ſenſe <hi>take part of their burden</hi> upon our ſelves, whilſt we ſeek, by ſuch charitable means to rid them of it.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>And now if in the laſt place, we make our ſelves ſenſible, that we are <hi>ſuch Reformed Chriſti<g ref="char:EOLhyphen"/>ans,</hi> as have been lately ſaved and delivered in a wonderful manner, from the hands of thoſe that deſigned our deſtruction; it will raiſe our thank<g ref="char:EOLhyphen"/>fulneſs to ſuch a heigth, that it will ſurmount all thoſe clouds, which overcaſt our joy in God, and in his Salvation.</p>
+               <p>For what a bleſſing is it, that we have the liberties of our Holy Religion; and meet here together in peace and quietneſs, without the leaſt apprehenſion of ſuch dangers, as not long ago hung over us? If we had been deprived of it, ſhould we not have accounted, the loſs to be invaluable? What is the matter then, that we do not ſet the greateſt price, upon the enjoyment? Is it Nothing to be delivered from thoſe <hi>fears,</hi> wherewith we were lately ſurrounded? what ſhould we think if God ſhould throw us back again into them? But there is a great deal more to be thankful for; which is the <hi>hopes</hi> we have
+<pb n="40" facs="tcp:93243:20"/> that this bleſſed Liberty will be continued and ſecured to us, and to our Poſterity after us. Which will derive a Bleſſing likewiſe upon all other Proteſtant Churches abroad: Whoſe ſafe<g ref="char:EOLhyphen"/>ty lies in our preſervation.</p>
+               <p>Nay, this one ſingle reflection, that we have had the happineſs to behold a <hi>Proteſtant King and Queen,</hi> here worſhipping God together in this place (a ſight, which if it hath been ever ſeen in <hi>England,</hi> yet not theſe <hi>Seventy</hi> years) is enough to tranſport us with ſuch joy, as ſhould make us quite forget all our differences and diſ<g ref="char:EOLhyphen"/>contents: And let us think of nothing elſe; but <hi>what we ſhall render to the Lord for ſuch benefits, as he hath beſtowed upon us.</hi>
+               </p>
+               <p>For which we can never thank him enough; and therefore let us thank him continually.</p>
+               <p>
+                  <hi>Evening, and Morning, and Noon,</hi> let us give our ſolemn thanks unto him. Yea,</p>
+               <p>Let us <hi>bleſs the Lord at all times, let his praiſe be ever in our mouths.</hi>
+               </p>
+               <p>When we ſit in our houſe (as <hi>Moſes</hi> ſpeaks in another caſe) when we walk by the way, when we lye down, and when we riſe up; let us be <hi>talking of all his wondrous works:</hi> ſaying with the Pſalmiſt,</p>
+               <p>
+                  <hi>Who can utter the mighty acts of the Lord? Who can ſhew forth all his praiſe?</hi>
+               </p>
+               <pb n="41" facs="tcp:93243:20"/>
+               <p>
+                  <hi>Thy righteouſneſs</hi> (or goodneſs.) <hi>O God, is very high, who haſt done great things: O God, who is like unto thee?</hi>
+               </p>
+               <p>
+                  <hi>Thou art great and doſt wondrous things: Thou art God alone.</hi>
+               </p>
+               <p>
+                  <hi>I will praiſe thee, O Lord my God, with my whole heart: I will Glorifie thy Name for evermore.</hi>
+               </p>
+               <p>
+                  <hi>For great is thy Mercy towards me, and thou haſt delivered my Soul from the loweſt Hell</hi> (i. e. the extreameſt Dangers)</p>
+               <p>
+                  <hi>Therefore ſhall my Tongue ſpeak of thy Righteouſ<g ref="char:EOLhyphen"/>neſs, and of thy Praiſe all the day long.</hi>
+               </p>
+               <p>
+                  <hi>I will Praiſe the Lord with my whole heart; ſe<g ref="char:EOLhyphen"/>cretly among the faithful, and in the Congregation.</hi>
+               </p>
+               <p>
+                  <hi>For the Works of the Lord are great, ſought out of all them that have Pleaſure therein.</hi>
+               </p>
+               <p>
+                  <hi>His Work is Honourable and Glorious: And his Righteouſneſs endureth for ever,</hi>
+               </p>
+               <p>Now the God of all Grace grant unto every Soul of us, ſuch truly thankful hearts, that we may be always praiſing him and ſpeaking good of his Name: And then the <hi>Peace of God</hi> will Rule and Govern us; unto which we are <hi>called in one Body,</hi> by Chriſt Jeſus. To whom with the Father and the Holy Ghoſt be Eternal Praiſes.</p>
+               <closer>Amen.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
